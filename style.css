@@ -1,0 +1,37 @@
+.last-child{
+ margin-left: 66px;
+}
+
+nav {
+        margin: 0px 416px;
+    }
+.slider{
+    margin: 0px 416px;
+}
+.fast-part{
+    margin-right: 12px;
+    
+}
+.background{
+    background-color: #d1e7f2;
+    
+}
+.long-desc{
+    background-color: #289bde !important;
+    padding: 82px!important;
+    color: white;
+}
+.slider-2{
+    margin: 0 355px;
+}
+.pic{
+    margin-right: 3px;
+}
+
+/* image */
+
+
+    .slider-3{
+    
+        margin: 0 338px;
+        }
