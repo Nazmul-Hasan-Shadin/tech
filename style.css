@@ -5,8 +5,12 @@
 nav {
         margin: 0px 416px;
     }
-.slider{
+/* .slider{
     margin: 0px 416px;
+} */
+
+.no{
+    width: ;
 }
 .fast-part{
     margin-right: 12px;
@@ -24,9 +28,7 @@ nav {
 .slider-2{
     margin: 0 355px;
 }
-.pic{
-    margin-right: 3px;
-}
+
 
 /* image */
 
@@ -34,4 +36,9 @@ nav {
     .slider-3{
     
         margin: 0 338px;
+        }
+
+        .carousel-main{
+            width: 1200px;
+            margin: 0 auto;
         }
